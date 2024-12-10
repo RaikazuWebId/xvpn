@@ -1,5 +1,4 @@
-#MASIH TAHAP PENGEMBANGAN
-#MASIH BANYAK BUG / ERROR
+
 
 
              
