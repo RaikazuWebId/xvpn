@@ -26,7 +26,7 @@
 - Add Fail2ban
 - Add Panel Bot Tele
 - Add Bot Notifikasi Riwayat Trx ( coming soon )
-### 5. MENU, INFO ,UPDATE ,FIX
+### MENU, INFO ,UPDATE ,FIX
 * main menu
 ```html
 menu
