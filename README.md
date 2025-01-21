@@ -25,7 +25,7 @@
 - Tuning Profiles On The Server
 - Add Fail2ban
 - Add Panel Bot Tele
-- Add Bot Notifikasi Riwayat Trx ( coming soon )
+- Add Bot Notif Riwayat Trx ( coming soon )
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
