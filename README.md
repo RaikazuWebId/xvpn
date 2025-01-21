@@ -1,9 +1,9 @@
 ### AUTO SCRIPT PREMIUM ###
 MultiPort 
-#  SSH WS ✔️
-#  SSH UDP ✔️
-#  SSL ✔️
-#  XRAY ✔️
+/  SSH WS ✔️
+/  SSH UDP ✔️
+/  SSL ✔️
+/  XRAY ✔️
 #  SHOWDOSOCK ✔️
 #  NOOBZVPN ✔️
 #  BOT TELE ✔️
