@@ -51,7 +51,8 @@ update
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 <img src="https://img.shields.io/badge/INSTALASI%20_ AUTOSCRIPT-blue">
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/main.sh && chmod +x main.sh && ./main.sh</pre></code>
-# SUPPORT 
+
+### SUPPORT 
 <pre><code>>>> Service & Port
 - Open SSH                : 443, 80, 22         
 - DNS (SLOWDNS)           : 443, 80, 53          
