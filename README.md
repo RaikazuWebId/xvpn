@@ -24,8 +24,10 @@
 - Dynamic Installation
 - Tuning Profiles On The Server
 - Add Fail2ban
-- Add Panel Bot Tele
+- Add Panel Bot Tele ( coming soon )
 - Add Bot Notif Riwayat Trx ( coming soon )
+### CONTACT OWNER SCRIPT
+- wa.me/+6282164649858
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
