@@ -1,6 +1,15 @@
-<h1 align="center"> AUTO SCRIPT PREMIUM
-<h1 align="center"> MULTIPORT
-<h2 align="center"> Support </h2>
+<h1 align="center"> PREMIUM SCRIPT
+<h2 align="center">Network VPN</h2>
+
+<h2 align="center">
+
+![Hits](https://img.shields.io/badge/SSH-SlowDNS-8020f3?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)
+![Hits](https://img.shields.io/badge/SSH-Websocket-8020f3?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)
+![Hits](https://img.shields.io/badge/XRAY-Vmess-f34b20?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)
+![Hits](https://img.shields.io/badge/XRAY-VLess-f34b20?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)
+![Hits](https://img.shields.io/badge/XRAY-Trojan-f34b20?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)
+</h2>
+<h2 align="center"> Support OS </h2>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
 </p>
   
@@ -8,6 +17,8 @@
 - DEBIAN 10
 - UBUNTU 18
 - UBUNTU 20
+### NOTES !!
+- MINIMUM 1GB RAM
 ### FEATURES
 - Add 1GB SwapRAM
 - Dynamic Installation
@@ -15,6 +26,15 @@
 - Add Fail2ban
 - Add Panel Bot Tele
 - Add Bot Notifikasi Riwayat Trx ( coming soon )
+### 5. MENU, INFO ,UPDATE ,FIX
+* main menu
+```html
+menu
+```
+* for menu updates 
+```html
+update
+```
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
@@ -25,11 +45,11 @@
 - UNDER ATTACK MODE : OFF
 ```
 
-### UP REPO DEBIAN 
+<img src="https://img.shields.io/badge/UPDATE%20_&_%20UPGRADE DEBIAN 9,10-blue">
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-### UP REPO UBUNTU
+<img src="https://img.shields.io/badge/UPDATE%20_&_%20UPGRADE UBUNTU 18,20-blue">
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
-### INSTALASI
+<img src="https://img.shields.io/badge/INSTALASI%20_ AUTOSCRIPT-blue">
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/main.sh && chmod +x main.sh && ./main.sh</pre></code>
 # SUPPORT 
 <pre><code>>>> Service & Port
