@@ -26,15 +26,6 @@
 - Add Fail2ban
 - Add Panel Bot Tele
 - Add Bot Notifikasi Riwayat Trx ( coming soon )
-### MENU, UPDATE 
-* main menu
-```html
-menu
-```
-* for menu updates 
-```html
-update
-```
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
@@ -52,6 +43,15 @@ update
 <img src="https://img.shields.io/badge/INSTALASI%20_ AUTOSCRIPT-blue">
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/main.sh && chmod +x main.sh && ./main.sh</pre></code>
 
+### MENU, UPDATE 
+* main menu
+```html
+menu
+```
+* for menu updates 
+```html
+update
+```
 ### SUPPORT 
 <pre><code>>>> Service & Port
 - Open SSH                : 443, 80, 22         
