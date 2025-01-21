@@ -1,19 +1,30 @@
-### AUTO SCRIPT PREMIUM ###
-<h1 align="center">
-<h1 align="center">💻 AUTOSCRIPT SSH XRAY MULTIPORT 💻
-<h2 align="center"> Supported Linux Distribution</h2>
+<h1 align="center"> AUTO SCRIPT PREMIUM
+<h1 align="center"> MULTIPORT
+<h2 align="center"> Support Linux </h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"width="400"></p>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
 </p>
   
   ### TESTED ON OS 
-- DEBIAN 10 & UBUNTU 20.04
+- DEBIAN 10
+- UBUNTU 18
+- UBUNTU 20
 ### FEATURES
 - Add 1GB SwapRAM
 - Dynamic Installation
 - Tuning Profiles On The Server
 - Add Fail2ban
-- Add Bot Tele
+- Add Panel Bot Tele
+- Add Bot Notifikasi Riwayat Trx ( coming soon )
+### SETTING CLOUDFLARE
+```
+- SSL/TLS : FULL
+- SSL/TLS Recommender : OFF
+- GRPC : ON
+- WEBSOCKET : ON
+- Always Use HTTPS : OFF
+- UNDER ATTACK MODE : OFF
+```
 
 ### UP REPO DEBIAN 
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
