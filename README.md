@@ -1,3 +1,12 @@
+### AUTO SCRIPT PREMIUM ###
+MultiPort 
+✔️ SSH WS 
+✔️ SSH UDP 
+✔️ SSL
+✔️ XRAY
+✔️ SHOWDOSOCK
+✔️ NOOBZVPN
+✔️ BOT TELE
 # UP REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 # UP REPO UBUNTU
