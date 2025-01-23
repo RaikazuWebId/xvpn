@@ -42,7 +42,7 @@ https://t.me/RAIKAZUSTORE
 - UNDER ATTACK MODE : OFF
 ```
 
-<img src="https://img.shields.io/badge/UPDATE%20_&_%20UPGRADE DEBIAN 9,10-blue">
+<img src="https://img.shields.io/badge/UPDATE%20_&_%20UPGRADE DEBIAN 11,12-blue">
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 <img src="https://img.shields.io/badge/UPDATE%20_&_%20UPGRADE UBUNTU 18,20-blue">
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
