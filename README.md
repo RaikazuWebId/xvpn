@@ -54,7 +54,7 @@ menu
 ```html
 update
 ```
-* For update manual
+* For manual update
 ```html
 https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/files/update
 ```
