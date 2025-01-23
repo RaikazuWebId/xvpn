@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/INSTALASI%20_ AUTOSCRIPT-blue">
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/main.sh && chmod +x main.sh && ./main.sh</pre></code>
 
-### MENU, UPDATE 
+### MENU, UPDATE, MANUAL
 * main menu
 ```html
 menu
@@ -53,6 +53,10 @@ menu
 * for menu updates 
 ```html
 update
+```
+* For update manual
+```html
+https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/files/update
 ```
 ### SUPPORT 
 <pre><code>>>> Service & Port
