@@ -36,13 +36,13 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${BlueBee}╔════════════════════════════════════════════════╗${NC}"
-echo -e "\033[96;1m                 RAIKAZU STORE               \033[0m"
+echo -e "\033[96;1m                       RAIKAZU STORE               \033[0m"
 echo -e "${BlueBee}╚════════════════════════════════════════════════╝${NC}"
 echo ""
 echo ""
 if [[ $( uname -m | awk '{print $1}' ) == "x86_64" ]]; then
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗$NC"
-echo -e "${OK} Your Architecture Is Supported ( ${green}$( uname -m )${NC} )"
+echo -e "${OK}   Your Architecture Is Supported ( ${green}$( uname -m )${NC} )"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝ $NC"
 echo -e ""
 else
@@ -71,7 +71,7 @@ echo -e "${EROR} IP Address ( ${RED}Not Detected${NC} )"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝ $NC"
 else
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗$NC"
-echo -e "${OK} IP Address ( ${green}$IP${NC} )"
+echo -e "${OK}   IP Address ( ${green}$IP${NC} )"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝ $NC"
 fi
 echo ""
@@ -132,7 +132,7 @@ echo -e "${OK} ${BLUE} $1 ${FONT}"
 }
 function print_install() {
 echo -e "${BlueBee}╔════════════════════════════════════════════════╗${NC}"
-echo -e "${CYAN} [•]  $1 ${FONT}"
+echo -e "${CYAN}                     [ MULAI MENGINSTAL ]  $1 ${FONT}"
 echo -e "${BlueBee}╚════════════════════════════════════════════════╝${NC}"
 sleep 1
 }
@@ -142,7 +142,7 @@ echo -e "${ERROR} ${REDBG} $1 ${FONT}"
 function print_success() {
 if [[ 0 -eq $? ]]; then
 echo -e "${BlueBee}╔════════════════════════════════════════════════╗${NC}"
-echo -e "${Green}                 INSTALL SUCCESS  ${FONT}"
+echo -e "${Green}                  [ INSTALL PAKET SUCCESS ] ${FONT}"
 echo -e "${BlueBee}╚════════════════════════════════════════════════╝${NC}"
 sleep 2
 fi
@@ -257,23 +257,23 @@ function pasang_domain() {
 echo -e ""
 clear
 echo -e "\e[94;1m╔════════════════════════════════════════════════╗ \e[0m"
-echo -e "                  \e[92;1m DOMAIN MENU \e[0m  "
+echo -e "                       \e[92;1m DOMAIN MENU \e[0m  "
 echo -e "\e[94;1m╚════════════════════════════════════════════════╝ \e[0m"
 echo -e ""
-echo -e "               \e[1;32m1)\e[0m Input Your Domain"
-echo -e "               \e[1;32m2)\e[0m Random Domain "
+echo -e "          \e[1;32m1)\e[0m DOMAIN SENDIRI [ REKOMEND ]"
+echo -e ""
 echo -e ""
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝ \e[0m"
 echo
 echo
-read -p "   Please select numbers 1-2 or Any Button(Random) : " host
+read -p "   Select Nomor 1 : " host
 echo ""
 if [[ $host == "1" ]]; then
 clear
 echo ""
 echo ""
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗$NC"
-echo -e "\e[1;32m                 INPUT YOUR DOMAIN $NC"
+echo -e "\e[1;32m                    INPUT YOUR DOMAIN $NC"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝ $NC"
 echo -e ""
 echo -e "\e[91;1m WARNING !! \e[0m"
@@ -883,13 +883,13 @@ clear
 echo -e ""
 echo -e ""
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
-echo -e "\e[96;1m              ----[ RAIKAZU PROJECT ]----                   \e[0m"
+echo -e "\e[96;1m                 ----[ RAIKAZU PROJECT ]----                \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo ""
 echo -e "\e[95;1m  Telegram : @RAIKAZUSTORE \e[0m"
 echo ""
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
-echo -e "\e[92;1m            ----[ INSTALL SUCCES ]----                   \e[0m"
+echo -e "\e[92;1m                  ----[ INSTALL SUCCES ]----                 \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
 echo -e " \e[93;1m•\e[0m SSH  = UDP / OPENVPN / ENHANCED / MULTI PORT "
@@ -899,7 +899,7 @@ echo -e " \e[93;1m•\e[0m TROJAN = MULTIPATCH / MULTIPORT / GRPC / TLS / WS+SSL
 echo -e " \e[93;1m•\e[0m SSR = MULTIPATCH / MULTIPORT / GRPC / TLS "
 echo -e ""
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
-echo -e "\e[92;1m               ----[ INFO PORT ]----                      \e[0m"
+echo -e "\e[92;1m                    ----[ INFO PORT ]----                      \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
 echo -e " \e[93;1m•\e[0m WEBSOCKET / WS / NTLS   :  80,8880,8080,2082,2095,2082 "
