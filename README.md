@@ -26,8 +26,12 @@
 - Add Fail2ban
 - Add Panel Bot Tele ( coming soon )
 - Add Bot Notif Riwayat Trx ( coming soon )
-### CONTACT OWNER SCRIPT
-- wa.me/+6282164649858
+- Add Bot Auto Create Akun ssh or xray premium ( coming soon )
+### BUY PREMIUM, CONTACT OWNER SCRIPT
+### Whatshapp 
+https://wa.me/+6282164649858/
+### Telegram
+https://t.me/RAIKAZUSTORE
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
