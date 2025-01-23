@@ -14,7 +14,6 @@
 </p>
   
   ### TESTED ON OS 
-- DEBIAN 10
 - UBUNTU 18
 - UBUNTU 20
 ### NOTES !!
