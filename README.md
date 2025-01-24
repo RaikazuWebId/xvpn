@@ -24,7 +24,7 @@
 - Tuning Profiles On The Server
 - Add Fail2ban
 - Add Panel Bot Tele ( coming soon )
-- Add Bot Notif Riwayat Trx ( coming soon )
+- Add Bot Notif Riwayat Trx 
 - Add Bot Auto Create Akun ssh or xray premium ( coming soon )
 ### BUY PREMIUM, CONTACT OWNER SCRIPT
 ### Whatshapp 
