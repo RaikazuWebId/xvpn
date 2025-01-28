@@ -59,7 +59,7 @@ update
 ```
 * For manual update
 ```html
-https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/files/update
+wget -q https://raw.githubusercontent.com/RaikazuWebId/xvpn/main/files/update && chmod +x update && ./update
 ```
 ### SUPPORT 
 <pre><code>>>> Service & Port
